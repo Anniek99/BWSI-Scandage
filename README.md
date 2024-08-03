@@ -41,7 +41,7 @@ void setup() {
   Serial.begin(115200);
   // Wait for Serial to initialize
   while (!Serial) {
-    ; // wait for serial port to connect. Needed for native USB port only
+    ; // wait for serial port to connect
   }
   for (int i = 0; i < 2; i++) {
     pinMode(periwoundPins[i], INPUT);
@@ -52,7 +52,7 @@ void setup() {
 }
 
 void loop() {
-  // No need to do anything here
+  // 
 }
 
 void collectAndProcessData() {
