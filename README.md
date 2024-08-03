@@ -15,7 +15,7 @@ This project is designed to monitor the temperature of two areas on the skin usi
 
 ## Circuit Diagram
 
-![Circuit Diagram]("C:\Users\merma\Downloads\Annie - Scandage.png")
+![Circuit Diagram](["C:\Users\merma\Downloads\Annie - Scandage.png"](https://github.com/Anniek99/BWSI-Scandage/blob/main/Circuit%20Diagram.png))
 
 ## Code
 
