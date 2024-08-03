@@ -15,7 +15,8 @@ This project is designed to monitor the temperature of two areas on the skin usi
 
 ## Circuit Diagram
 
-(https://github.com/Anniek99/BWSI-Scandage/blob/main/Circuit%20Diagram.png
+![Circuit Diagram]([https://github.com/yourusername/arduino-temperature-monitor/raw/main/path_to_your_circuit_diagram_image.png](https://github.com/Anniek99/BWSI-Scandage/blob/main/Circuit%20Diagram.png
+))
 
 ## Code
 
